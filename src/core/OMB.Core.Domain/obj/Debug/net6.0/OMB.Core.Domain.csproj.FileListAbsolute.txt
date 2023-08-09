@@ -1,0 +1,15 @@
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\bin\Debug\net6.0\OMB.Core.Domain.deps.json
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\bin\Debug\net6.0\OMB.Core.Domain.dll
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\bin\Debug\net6.0\OMB.Core.Domain.pdb
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\obj\Debug\net6.0\OMB.Core.Domain.csproj.AssemblyReference.cache
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\obj\Debug\net6.0\OMB.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\obj\Debug\net6.0\OMB.Core.Domain.AssemblyInfoInputs.cache
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\obj\Debug\net6.0\OMB.Core.Domain.AssemblyInfo.cs
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\obj\Debug\net6.0\OMB.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\obj\Debug\net6.0\OMB.Core.Domain.dll
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\obj\Debug\net6.0\refint\OMB.Core.Domain.dll
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\obj\Debug\net6.0\OMB.Core.Domain.pdb
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\obj\Debug\net6.0\ref\OMB.Core.Domain.dll
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\bin\Debug\net6.0\OMB.Adapter.Repository.dll
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\bin\Debug\net6.0\OMB.Adapter.Repository.pdb
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Domain\obj\Debug\net6.0\OMB.Core.Domain.csproj.CopyComplete

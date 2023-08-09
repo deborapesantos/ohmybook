@@ -1,0 +1,17 @@
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\bin\Debug\net6.0\OMB.Core.Application.deps.json
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\bin\Debug\net6.0\OMB.Core.Application.dll
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\bin\Debug\net6.0\OMB.Core.Application.pdb
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\obj\Debug\net6.0\OMB.Core.Application.csproj.AssemblyReference.cache
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\obj\Debug\net6.0\OMB.Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\obj\Debug\net6.0\OMB.Core.Application.AssemblyInfoInputs.cache
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\obj\Debug\net6.0\OMB.Core.Application.AssemblyInfo.cs
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\obj\Debug\net6.0\OMB.Core.Application.csproj.CoreCompileInputs.cache
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\obj\Debug\net6.0\OMB.Core.Application.dll
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\obj\Debug\net6.0\refint\OMB.Core.Application.dll
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\obj\Debug\net6.0\OMB.Core.Application.pdb
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\obj\Debug\net6.0\ref\OMB.Core.Application.dll
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\bin\Debug\net6.0\OMB.Adapter.Repository.dll
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\bin\Debug\net6.0\OMB.Core.Domain.dll
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\bin\Debug\net6.0\OMB.Adapter.Repository.pdb
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\bin\Debug\net6.0\OMB.Core.Domain.pdb
+C:\Repository\myrepo\ohmybook\src\core\OMB.Core.Application\obj\Debug\net6.0\OMB.Core.Application.csproj.CopyComplete

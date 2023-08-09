@@ -1,0 +1,12 @@
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\bin\Debug\net6.0\OMB.Adapter.Repository.deps.json
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\bin\Debug\net6.0\OMB.Adapter.Repository.dll
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\bin\Debug\net6.0\OMB.Adapter.Repository.pdb
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\obj\Debug\net6.0\OMB.Adapter.Repository.csproj.AssemblyReference.cache
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\obj\Debug\net6.0\OMB.Adapter.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\obj\Debug\net6.0\OMB.Adapter.Repository.AssemblyInfoInputs.cache
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\obj\Debug\net6.0\OMB.Adapter.Repository.AssemblyInfo.cs
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\obj\Debug\net6.0\OMB.Adapter.Repository.csproj.CoreCompileInputs.cache
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\obj\Debug\net6.0\OMB.Adapter.Repository.dll
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\obj\Debug\net6.0\refint\OMB.Adapter.Repository.dll
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\obj\Debug\net6.0\OMB.Adapter.Repository.pdb
+C:\Repository\myrepo\ohmybook\src\adapters\OMB.Adapter.Repository\obj\Debug\net6.0\ref\OMB.Adapter.Repository.dll

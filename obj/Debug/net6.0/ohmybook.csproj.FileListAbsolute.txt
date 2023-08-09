@@ -1,0 +1,15 @@
+C:\Repository\myrepo\ohmybook\bin\Debug\net6.0\ohmybook.exe
+C:\Repository\myrepo\ohmybook\bin\Debug\net6.0\ohmybook.deps.json
+C:\Repository\myrepo\ohmybook\bin\Debug\net6.0\ohmybook.runtimeconfig.json
+C:\Repository\myrepo\ohmybook\bin\Debug\net6.0\ohmybook.dll
+C:\Repository\myrepo\ohmybook\bin\Debug\net6.0\ohmybook.pdb
+C:\Repository\myrepo\ohmybook\obj\Debug\net6.0\ohmybook.csproj.AssemblyReference.cache
+C:\Repository\myrepo\ohmybook\obj\Debug\net6.0\ohmybook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\myrepo\ohmybook\obj\Debug\net6.0\ohmybook.AssemblyInfoInputs.cache
+C:\Repository\myrepo\ohmybook\obj\Debug\net6.0\ohmybook.AssemblyInfo.cs
+C:\Repository\myrepo\ohmybook\obj\Debug\net6.0\ohmybook.csproj.CoreCompileInputs.cache
+C:\Repository\myrepo\ohmybook\obj\Debug\net6.0\ohmybook.dll
+C:\Repository\myrepo\ohmybook\obj\Debug\net6.0\refint\ohmybook.dll
+C:\Repository\myrepo\ohmybook\obj\Debug\net6.0\ohmybook.pdb
+C:\Repository\myrepo\ohmybook\obj\Debug\net6.0\ohmybook.genruntimeconfig.cache
+C:\Repository\myrepo\ohmybook\obj\Debug\net6.0\ref\ohmybook.dll

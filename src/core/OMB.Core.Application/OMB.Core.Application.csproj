@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\adapters\OMB.Adapter.Repository\OMB.Adapter.Repository.csproj" />
+    <ProjectReference Include="..\OMB.Core.Domain\OMB.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

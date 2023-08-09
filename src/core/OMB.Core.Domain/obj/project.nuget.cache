@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lvh9Rq5RUfxvIUfXDpfOZ78ncwh+UcBr+BPlVTmTqBEm9Or82GpqeP5FT9Bs1zedpgMg4VZ1IBlFMjz3c2YT0g==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\myrepo\\ohmybook\\src\\core\\OMB.Core.Domain\\OMB.Core.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\debora.santos\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\debora.santos\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\debora.santos\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
